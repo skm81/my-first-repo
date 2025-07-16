@@ -1,0 +1,3 @@
+Hello GitHub!
+This is my first public repository.
+Thanks to ChatGPT 😄
